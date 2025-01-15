@@ -57,6 +57,7 @@ body{
     justify-content: space-between;
     border-bottom: solid 1px white;
     position: fixed;
+    z-index: 1;
     
 }
 .header_logo{
